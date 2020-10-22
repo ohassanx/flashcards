@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.mh-100vh {
+  min-height: 100vh;
+}
+
+.d-f {
+  display: flex;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+
+.fw-w {
+  flex-wrap: wrap;
+}
+
+.jc-c {
+  justify-content: center;
+}
+
+.ai-c {
+  align-items: center;
+}
+
+.box {
+  background-color: hsl(171, 100%, 41%);
+}
+
+.box1 {
+  background-color: yellowgreen;
+  width: 200px;
+  height: 1500px;
+}
+.box2 {
+  background-color: cadetblue;
+  width: 200px;
+  height: 1500px;
+}

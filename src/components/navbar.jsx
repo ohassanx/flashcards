@@ -30,7 +30,7 @@ export default function Navbar() {
         <li>
           <Link to="/">
             <h1 className="title has-text-light">Flashcard</h1>
-            <h3 className="subtitle is-6 has-text-light">SumetPH</h3>
+            <h3 className="subtitle is-6 has-text-light">Omar Hassan Abdi</h3>
           </Link>
         </li>
       </ul>

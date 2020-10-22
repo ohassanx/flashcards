@@ -12,5 +12,5 @@ Host : Heroku
 https://flashcard310.herokuapp.com
 
 ## Example
-<img src="https://i.imgur.com/uPXKTQx.jpg" />
+<img src="https://i.imgur.com/jtI0XKl.png" />
 "# flashcards" 

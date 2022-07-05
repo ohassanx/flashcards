@@ -1,5 +1,5 @@
-# Fern Flashcard
-Note your vocabulary and try to remember it by a game.
+# Flashcard
+Make notes and focus on memorising it by a game.
 
 ## Technology
 Front-End : React.js   
@@ -9,8 +9,8 @@ CSS Framework : Bulma
 Host : Heroku
 
 ## Reference
-https://fern-flashcard-sumetph.herokuapp.com/
+https://flashcard310.herokuapp.com
 
 ## Example
-<img src="https://i.imgur.com/uPXKTQx.jpg" />
+<img src="https://i.imgur.com/jtI0XKl.png" />
 "# flashcards" 
